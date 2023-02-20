@@ -1,0 +1,237 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar1 {
+  overflow: hidden;
+  background-color:#153973;
+  
+}
+
+.navbar1 a {
+  float: left;
+  font-size: 10px;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.navbar {
+  /* overflow: hidden; */
+  background-color:#1a458b;
+  height: 60px;
+  
+}
+
+
+
+
+
+
+
+
+
+.top-premable1 {
+  color: #ffffff;
+  font-size: 0.5rem;
+  margin-bottom: -4px;
+  display: block;
+  background-color: #e322e3;
+  width: 66px;
+  border-radius: 2px;
+  padding: 3px 6px;
+ 
+}
+.top-premable6 {
+  color: #ffffff;
+  font-size: 0.5rem;
+  margin-bottom: -4px;
+  display: block;
+  background-color:#2274E5;
+  width: 70px;
+  border-radius: 2px;
+  padding: 3px 6px;
+}
+
+
+.top-premable2 {
+  color: #ffffffd6;
+  font-size: 0.8rem;
+  margin-bottom: -4px;
+  display: block;
+}
+
+.top-premable3 {
+  color:#708cb8;
+  font-size: 0.8rem;
+  margin-bottom: -4px;
+  display: block;
+}
+.top-headline {
+  color: #ffffff;
+  display: block;
+  line-height: 1;
+  font-size: 1.5rem;
+  max-width: 40ch;
+}
+.top-headline3 {
+  color:#2274e5;
+  display: block;
+  line-height: 1;
+  font-size: 1.5rem;
+  max-width: 40ch;
+}
+
+.top-body {
+  color: #ffffffd9;
+  display: block;
+  font-size: 0.8rem;
+  max-width: 47ch;
+  line-height: 1.4;
+}
+.top-body3 {
+  color:#708cb8;
+  display: block;
+  font-size: 0.8rem;
+  max-width: 47ch;
+  line-height: 1.4;
+}
+.top-body1 {
+  color: #ffffff;
+  display: block;
+  font-size: 0.8rem;
+  max-width: 47ch;
+  line-height: 1.4;
+}
+
+.section0 {
+  width: 100%;
+  height: 111vh;
+  background-image: url(samsung-s23ultra-interim-home-desktop.jpg.webp);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.container0{
+  position: absolute;
+  margin-left: 70px;
+  margin-top: 200px;
+}
+
+.section1 {
+  width: 100%;
+  height: 111vh;
+  background-image: url(samsung-s23-interim-home-desktop-min_0.jpg.webp);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.text_box1{
+  position: absolute;
+  margin-left: 70px;
+  margin-top: 150px;
+}
+
+
+.section2 {
+  width: 100%;
+  height: 111vh;
+  background-image: url(fuji-samsung-galaxy-s23-series-desktop_0.jpg.webp);
+  background-position: center;
+  background-size: cover;
+}
+
+.section3 {
+  width: 100%;
+  height: 111vh;
+  background-image: url(kingpin-s23-series-interim-home-desktop_1_0.jpg.webp);
+  background-position: center;
+  background-size: cover;
+}
+
+.section4 {
+  width: 100%;
+  height: 111vh;
+  background-image: url(chowchow-interim-home-desktop-min_0.jpg.webp);
+  background-position: center;
+  background-size: cover;
+}
+
+.section5 {
+  width: 100%;
+  height: 111vh;
+  background-image: url(dgpon-gfiber-banner-desktop.jpg.webp);
+  background-position: center;
+  background-size: cover;
+}
+
+.section6 {
+  width: 100%;
+  height: 100vh;
+  background-image: url(thena-oneplan_desktop_0.jpg.webp);
+  background-position: center;
+  background-size: cover;
+}
+
+.section7 {
+  width: 100%;
+  height: 100vh;
+  background-image: url(g1-migration-desktop_0.jpg.webp);
+  background-position: center;
+  background-size: cover;
+}
+
+
+/* footer */
+
+.flex-container {
+  display: flex;
+  flex-wrap: nowrap;
+  background-color: DodgerBlue;
+
+}
+
+.flex-container > div {
+   width: 100px;
+   text-align: center;
+  line-height: 30px;
+  font-size: 30px;
+}
+
+.flex-container {
+  background-color:#1a458b;
+ padding-top: 40px;
+    height: 200px;
+  width: 100%
+ 
+}
+
+.flex-container a {
+  font-size: 14px;
+  font-weight: 700;
+  text-align: center;
+  color: white;
+  padding-left: 12px;
+  text-decoration: none;
+}
+
+.flex-container p {
+  margin-top: 50px;
+  text-align: center;
+  color:#cfddf4;
+  padding-left: 12px;
+  text-decoration: none;
+}
+
+.end {
+  text-align: center;
+  margin-top: -80px;
+  color:#cfddf4;
+}
